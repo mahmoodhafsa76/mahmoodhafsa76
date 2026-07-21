@@ -28,7 +28,7 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 <table>
 <tr>
 <td align="center">Electrical Engineering</td>
-<td align="center">Generative AI</td>
+<td align="center">Sustainable Energy Resources</td>
 <td align="center">BESS</td>
 </tr>
 <tr>
