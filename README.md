@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=C2185B&height=25&width=100%&section=header&text=About%20Me&fontSize=24&fontColor=ffffff" width="100%"/>
+<h2 align="center" style="color:#C2185B;">About Me</h2>
 
 <br/>
 
@@ -50,7 +50,7 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=E91E63&height=25&width=100%&section=header&text=Currently&fontSize=24&fontColor=ffffff" width="100%"/>
+<h2 align="center" style="color:#C2185B;">Now I'm</h2>
 
 <br/>
 
@@ -73,7 +73,7 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=C2185B&height=25&width=100%&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff" width="100%"/>
+<h2 align="center" style="color:#C2185B;">Tools that I Use</h2>
 
 <br/><br/>
 
@@ -123,7 +123,7 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=E91E63&height=25&width=100%&section=header&text=Areas%20of%20Interest&fontSize=24&fontColor=ffffff" width="100%"/>
+<h2 align="center" style="color:#C2185B;">Areas of Interest</h2>
 
 <br/>
 <br/>
@@ -153,6 +153,6 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,100:C2185B&height=180&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=ffffff&fontAlignY=75&desc=Let's%20build%20something%20meaningful%20together&descAlignY=90&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,100:C2185B&height=180&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=ffffff&fontAlignY=65&desc=Let's%20build%20something%20meaningful%20together&descAlignY=75&descSize=14" width="100%"/>
 
 </div>
