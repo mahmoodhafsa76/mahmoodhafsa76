@@ -55,7 +55,6 @@ I'm an <strong>Electrical Engineer with a background in Power Systems</strong>, 
 <br/>
 
 <table>
-<tr><td>Working as a Trainee Design Engineer, designing ELV systems and lighting solutions</td></tr>
 <tr><td>Exploring Generative AI and Large Language Models</td></tr>
 <tr><td>Building AI-powered applications and automation tools</td></tr>
 <tr><td>Researching Dynamic Wireless Power Transfer for Electric Vehicles</td></tr>
